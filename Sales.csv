@@ -38,13 +38,13 @@ SALES_ID,Product,Date,Sales
 37,D,Jan/20,  8 
 38,D,Feb/20,  6 
 39,D,Mar/20,  5 
-40,D,Apr/20,  -   
+40,D,Apr/20,
 41,D,May/20,  4 
 42,D,Jun/20,  3 
 43,D,Jul/20,  6 
 44,D,Aug/20,  8 
 45,D,Sep/20,  7 
-46,D,Oct/20,  -   
+46,D,Oct/20,
 47,D,Nov/20,  3 
 48,D,Dec/20,  5 
 49,E,Jan/20,
